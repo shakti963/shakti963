@@ -1,3 +1,4 @@
+![ Alt text](https://images.app.goo.gl/DnzrWTrHF53F3Aru9) / ! [](https://images.app.goo.gl/DnzrWTrHF53F3Aru9)
 <h1 align="center">Hi 👋, I'm Sri</h1>
 <h3 align="center">I am a data enthusiast who loves to build new pipelines and explore and Visualize data</h3>
 
