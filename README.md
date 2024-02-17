@@ -1,4 +1,4 @@
-![ Alt text](https://images.app.goo.gl/DnzrWTrHF53F3Aru9) / ! [](https://images.app.goo.gl/DnzrWTrHF53F3Aru9)
+<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm Sri</h1>
 <h3 align="center">I am a data enthusiast who loves to build new pipelines and explore and Visualize data</h3>
 
