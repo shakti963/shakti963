@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://github.com/shakti963/sri_portfolio/blob/main/MuniKanakaSriShaliniChintam_resume%20(2).pdf](https://github.com/shakti963/sri_portfolio/blob/main/MuniKanakaSriShaliniChintam_resume%20(2).pdf)
 
-- ⚡ Fun fact **I love Murakami**
+- ⚡ Fun fact **I love Murakami's Norwegian wood **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
