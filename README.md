@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Azure**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/Sri-s-portfolio-001350a5715b478683139238e647a862](https://www.notion.so/Sri-s-portfolio-001350a5715b478683139238e647a862)
-
 - 📝 I regularly write articles on [data visualization](data visualization)
 
-- 📫 How to reach me **shalinishetti1210@gmail.com**
+- 📫 How to reach me **kanakasri06@@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/shakti963/sri_portfolio/blob/main/MuniKanakaSriShaliniChintam_resume%20(2).pdf](https://github.com/shakti963/sri_portfolio/blob/main/MuniKanakaSriShaliniChintam_resume%20(2).pdf)
 
